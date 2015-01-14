@@ -1,1 +1,0 @@
-"%~dp0vendor\bin\phpunit.bat" "%~dp0tests"
